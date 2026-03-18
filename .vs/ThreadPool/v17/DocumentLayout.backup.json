@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c\u9879\u76EE\\ThreadPool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|E:\\c\u9879\u76EE\\ThreadPool\\FixedThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|solutionrelative:FixedThreadPool.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|E:\\c\u9879\u76EE\\ThreadPool\\FixedThreadPool2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|solutionrelative:FixedThreadPool2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|E:\\c\u9879\u76EE\\ThreadPool\\SyncQueue2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|solutionrelative:SyncQueue2.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|E:\\c\u9879\u76EE\\ThreadPool\\testMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|solutionrelative:testMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|E:\\c\u9879\u76EE\\ThreadPool\\SyncQueue1.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3B61B96-2E93-457E-80A4-130CF61ABA10}|ThreadPool.vcxproj|solutionrelative:SyncQueue1.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixedThreadPool2.hpp",
+              "DocumentMoniker": "E:\\c\u9879\u76EE\\ThreadPool\\FixedThreadPool2.hpp",
+              "RelativeDocumentMoniker": "FixedThreadPool2.hpp",
+              "ToolTip": "E:\\c\u9879\u76EE\\ThreadPool\\FixedThreadPool2.hpp",
+              "RelativeToolTip": "FixedThreadPool2.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-31T11:57:51.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SyncQueue2.hpp",
+              "DocumentMoniker": "E:\\c\u9879\u76EE\\ThreadPool\\SyncQueue2.hpp",
+              "RelativeDocumentMoniker": "SyncQueue2.hpp",
+              "ToolTip": "E:\\c\u9879\u76EE\\ThreadPool\\SyncQueue2.hpp",
+              "RelativeToolTip": "SyncQueue2.hpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowEIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-21T11:45:52.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testMain.cpp",
+              "DocumentMoniker": "E:\\c\u9879\u76EE\\ThreadPool\\testMain.cpp",
+              "RelativeDocumentMoniker": "testMain.cpp",
+              "ToolTip": "E:\\c\u9879\u76EE\\ThreadPool\\testMain.cpp",
+              "RelativeToolTip": "testMain.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T11:12:41.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FixedThreadPool.hpp",
+              "DocumentMoniker": "E:\\c\u9879\u76EE\\ThreadPool\\FixedThreadPool.hpp",
+              "RelativeDocumentMoniker": "FixedThreadPool.hpp",
+              "ToolTip": "E:\\c\u9879\u76EE\\ThreadPool\\FixedThreadPool.hpp",
+              "RelativeToolTip": "FixedThreadPool.hpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T12:20:10.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SyncQueue1.hpp",
+              "DocumentMoniker": "E:\\c\u9879\u76EE\\ThreadPool\\SyncQueue1.hpp",
+              "RelativeDocumentMoniker": "SyncQueue1.hpp",
+              "ToolTip": "E:\\c\u9879\u76EE\\ThreadPool\\SyncQueue1.hpp",
+              "RelativeToolTip": "SyncQueue1.hpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-19T11:12:17.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
